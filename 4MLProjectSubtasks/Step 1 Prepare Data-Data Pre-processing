@@ -1,0 +1,9 @@
+1. Get the Dataset
+2. Importing the libraries/Loading the librareis
+3. Importing the Dataset
+4. Missing Data
+5. Categorical Data
+6. Splitting the dataset into the Training set and Testing set
+7. Feature Scaling
+
+Finally, you'll end up with Data pre-processing template.
